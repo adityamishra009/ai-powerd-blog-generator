@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins",sans-serif;
+  overflow-x: hidden;
+  background-color: black;
+  color: #fff;
+}
+*html{
+  overflow-x: hidden;
+}

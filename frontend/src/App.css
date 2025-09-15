@@ -10,3 +10,9 @@
 *html{
   overflow-x: hidden;
 }
+h1{
+  font-size: 25px;
+}
+p{
+  margin: 10px 0px;
+}
